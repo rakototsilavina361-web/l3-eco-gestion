@@ -1,26 +1,20 @@
 [
   {
     "matiere": "Gestion Financière",
-    "titre": "Le BFR (Besoin en Fonds de Roulement)",
+    "titre": "Chapitre 1 : L'Analyse de l'Équilibre Financier (BFR, FRNG, TN)",
     "type": "Leçon",
-    "contenu": "Le BFR est le montant nécessaire pour financer le cycle d'exploitation de l'entreprise. Formule : Stocks + Créances clients - Dettes fournisseurs."
+    "contenu": "<h3>I. Introduction</h3><p>L'équilibre financier est la base de la survie d'une entreprise L3. Il s'appuie sur le bilan fonctionnel.</p><h3>II. Le Fonds de Roulement Net Global (FRNG)</h3><p>Le FRNG représente l'excédent des ressources stables sur les emplois stables. <b>Formule :</b> Ressources Stables - Emplois Stables.</p><h3>III. Le Besoin en Fonds de Roulement (BFR)</h3><p>C'est le décalage de trésorerie entre les encaissements et les décaissements. <b>BFR = Stocks + Créances - Dettes non financières.</b></p><h3>IV. La Trésorerie Nette (TN)</h3><p>TN = FRNG - BFR. Si TN > 0, l'entreprise dispose d'une marge de sécurité.</p>"
   },
   {
-    "matiere": "Économétrie",
-    "titre": "Hypothèses de Gauss-Markov",
-    "type": "Leçon",
-    "contenu": "Les 5 hypothèses de base : Linéarité, Absence d'autocorrélation, Homoscédasticité, Exogénéité des variables et Absence de colinéarité."
-  },
-  {
-    "matiere": "Comptabilité L3",
-    "titre": "Calcul du Seuil de Rentabilité",
+    "matiere": "Gestion Financière",
+    "titre": "Série d'Exercices : Calcul de l'Équilibre Financier",
     "type": "Exercice",
-    "contenu": "Soit un CA de 500 000€, des Charges Fixes de 100 000€ et un Taux de Marge de 25%. Calculez le SR."
+    "contenu": "<b>Exercice 1 :</b> Une entreprise a des Emplois Stables de 500k€ et des Ressources Stables de 600k€. Ses stocks sont de 50k€, ses créances de 30k€ et ses dettes fournisseurs de 40k€. <br><br><b>Travail à faire :</b> <br>1. Calculez le FRNG.<br>2. Calculez le BFR.<br>3. Déduisez la Trésorerie Nette.<br><br><b>Exercice 2 :</b> Si le délai de paiement des clients augmente de 10 jours, quel sera l'impact sur le BFR ?"
   },
   {
-    "matiere": "Comptabilité L3",
-    "titre": "Réponse Seuil de Rentabilité",
+    "matiere": "Gestion Financière",
+    "titre": "Corrigé Détaillé : Série Équilibre Financier",
     "type": "Réponse",
-    "contenu": "SR = Charges Fixes / Taux de Marge sur Coûts Variables. SR = 100 000 / 0,25 = 400 000€."
+    "contenu": "<h3>Correction de l'Exercice 1 :</h3><p>1. <b>FRNG</b> = 600 000 - 500 000 = <b>100 000€</b>.</p><p>2. <b>BFR</b> = (50 000 + 30 000) - 40 000 = <b>40 000€</b>.</p><p>3. <b>TN</b> = 100 000 - 40 000 = <b>60 000€</b>. L'entreprise est saine.</p><h3>Correction de l'Exercice 2 :</h3><p>Si le délai client augmente, les créances augmentent. Comme le BFR = Stocks + Créances - Dettes, une hausse des créances entraîne une <b>hausse du BFR</b> et donc une baisse de la Trésorerie Nette.</p>"
   }
 ]
