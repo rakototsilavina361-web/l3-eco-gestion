@@ -1,0 +1,26 @@
+[
+  {
+    "matiere": "Gestion Financière",
+    "titre": "Le BFR (Besoin en Fonds de Roulement)",
+    "type": "Leçon",
+    "contenu": "Le BFR est le montant nécessaire pour financer le cycle d'exploitation de l'entreprise. Formule : Stocks + Créances clients - Dettes fournisseurs."
+  },
+  {
+    "matiere": "Économétrie",
+    "titre": "Hypothèses de Gauss-Markov",
+    "type": "Leçon",
+    "contenu": "Les 5 hypothèses de base : Linéarité, Absence d'autocorrélation, Homoscédasticité, Exogénéité des variables et Absence de colinéarité."
+  },
+  {
+    "matiere": "Comptabilité L3",
+    "titre": "Calcul du Seuil de Rentabilité",
+    "type": "Exercice",
+    "contenu": "Soit un CA de 500 000€, des Charges Fixes de 100 000€ et un Taux de Marge de 25%. Calculez le SR."
+  },
+  {
+    "matiere": "Comptabilité L3",
+    "titre": "Réponse Seuil de Rentabilité",
+    "type": "Réponse",
+    "contenu": "SR = Charges Fixes / Taux de Marge sur Coûts Variables. SR = 100 000 / 0,25 = 400 000€."
+  }
+]
